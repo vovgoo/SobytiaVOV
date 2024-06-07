@@ -1,0 +1,14 @@
+﻿  Comment.cpp
+  MainForm.cpp
+K:\Для программ\source\repos\SobytiaVOV\SobytiaVOV\MainForm.h(19,44): warning C4965: неявная упаковка целого числа 0; используйте nullptr или явное приведение типов
+K:\Для программ\source\repos\SobytiaVOV\SobytiaVOV\MainForm.cpp(388,37): warning C4965: неявная упаковка целого числа 0; используйте nullptr или явное приведение типов
+K:\Для программ\source\repos\SobytiaVOV\SobytiaVOV\MainForm.cpp(507,37): warning C4965: неявная упаковка целого числа 0; используйте nullptr или явное приведение типов
+K:\Для программ\source\repos\SobytiaVOV\SobytiaVOV\MainForm.cpp(540,37): warning C4965: неявная упаковка целого числа 0; используйте nullptr или явное приведение типов
+K:\Для программ\source\repos\SobytiaVOV\SobytiaVOV\MainForm.cpp(731,55): warning C4965: неявная упаковка целого числа 0; используйте nullptr или явное приведение типов
+K:\Для программ\source\repos\SobytiaVOV\SobytiaVOV\MainForm.cpp(901,37): warning C4965: неявная упаковка целого числа 0; используйте nullptr или явное приведение типов
+K:\Для программ\source\repos\SobytiaVOV\SobytiaVOV\MainForm.cpp(1044,57): warning C4965: неявная упаковка целого числа 0; используйте nullptr или явное приведение типов
+  Publications.cpp
+  Создание кода...
+K:\Для программ\source\repos\SobytiaVOV\SobytiaVOV\Publications.cpp(113): warning C4715: SobytiaVOV::Publications::checkLikeOnPublications: значение возвращается не при всех путях выполнения
+  Comment.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  SobytiaVOV.vcxproj -> K:\Для программ\source\repos\SobytiaVOV\x64\Debug\SobytiaVOV.exe

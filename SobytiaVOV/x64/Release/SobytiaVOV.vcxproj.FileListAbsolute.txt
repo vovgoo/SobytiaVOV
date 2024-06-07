@@ -1,0 +1,5 @@
+K:\Для программ\source\repos\SobytiaVOV\SobytiaVOV\x64\Release\SobytiaVOV.vcxproj.AssemblyReference.cache
+K:\Для программ\source\repos\SobytiaVOV\SobytiaVOV\x64\Release\SobytiaVOV.MainForm.resources
+K:\Для программ\source\repos\SobytiaVOV\SobytiaVOV\x64\Release\SobytiaVOV.vcxproj.GenerateResource.cache
+K:\Для программ\source\repos\SobytiaVOV\SobytiaVOV\x64\Release\SobytiaVOV.Publications.resources
+K:\Для программ\source\repos\SobytiaVOV\SobytiaVOV\x64\Release\SobytiaVOV.Comment.resources
